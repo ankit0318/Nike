@@ -1,6 +1,6 @@
 import { facebook, instagram, twitter } from "../assets/icons";
 import { footerLogo } from "../assets/images";
-import { footerLinks } from "../Constants";
+import { footerLinks } from "../constants";
 
 const Footer = () => {
   return (

@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+shift+a",
+    "command": "editor.foldAllBlockComments",
+    "when": "editorTextFocus && tailwindCSS.enabled"
+  }
+]
